@@ -1,174 +1,82 @@
-👋 Hey, I'm Akash Mishra
-Product Management Fellow • AI Workflow Builder • Solving Operational Problems Through AI Systems
+# Akash Mishra
 
-I build AI-powered workflows by combining product thinking, systems design, and business problem solving.
+**Product Strategist • AI Workflow Builder • Systems Thinker**
 
-My background is in business consulting, where I spent 6+ years working with founders and operators across growth, sales, hiring, and operational workflows. That experience shaped the way I approach products today:
+I bridge the gap between business growth and technical execution. With 6+ years of experience scaling 100+ businesses, I now build AI-powered systems that solve complex operational bottlenecks. Currently a Product Management Fellow at NextLeap.
+Currently exploring the intersection of:
+- AI Workflow Systems
+- Product Strategy
+- Automation
+- Operational Efficiency
+- Human-in-the-Loop AI
 
-Start with the user problem
-Break the workflow into smaller systems
-Identify operational friction
-Use AI where it genuinely improves execution
-Keep humans involved where judgment matters
+---
 
-Currently, I’m part of the NextLeap PM Fellowship, where I’m deepening my understanding of:
+## 🚀 Focus Areas
 
-Product Strategy
-User Research
-Product Discovery
-Prioritization
-AI-first Product Development
-🧠 What Defines My Work
-🔍 First-Principles Product Thinking
+- **AI Workflow Engineering** — Multi-agent systems & automation workflows
+- **Product Strategy** — Discovery, JTBD, growth experimentation
+- **Systems Design** — SOPs, scalable operational systems, execution frameworks
 
-I don’t start with AI tools.
-I start with:
+---
 
-What is slowing the user down?
-Where is decision fatigue happening?
-Which workflows are repetitive?
-What part of the system is broken?
+## 🛠 Featured Projects
 
-From there, I design structured AI workflows that reduce cognitive load and operational friction.
+### [Autonomous Job Hunt Multi-Agent System](https://github.com/yourusername/repo-link)
+AI-powered workflow automating job applications and outreach.
 
-My approach is heavily focused on:
+**Impact**
+- Reduced manual effort by ~90%
 
-Systems thinking
-Workflow optimization
-User-centric execution
-AI-assisted decision systems
-🤖 AI Workflow Systems
+`Apollo` • `Hunter.io` • `Cursor` • `Multi-Agent Systems`
 
-Most AI products fail because they automate without understanding workflow behavior.
+---
 
-I focus on building:
+### [Weekly App Store Review Pulse](https://github.com/yourusername/repo-link)
+Automated review analysis workflow delivering weekly product insights.
 
-Multi-step AI workflows
-Human-in-the-loop systems
-Structured prompting architectures
-Reliable automation pipelines
-AI systems with operational clarity
+**Impact**
+- Surfaced actionable product recommendations weekly
 
-I’m especially interested in workflows where:
+`LLMs` • `Embeddings` • `Automation`
 
-AI handles execution
-Humans handle judgment
-Systems remain scalable and controllable
-📊 Product Management Through Execution
+---
 
-I enjoy working at the intersection of:
+### [Mutual Fund FAQ Assistant (RAG)](https://github.com/yourusername/repo-link)
+High-trust conversational assistant with controlled AI behavior.
 
-Product Strategy
-Workflow Design
-AI Automation
-User Problems
-Operational Efficiency
+**Impact**
+- Uses verified sources only
+- Refuses investment advice for reliability
 
-Instead of treating PM as documentation-heavy theory, I prefer building systems end-to-end:
+`RAG` • `Prompt Engineering` • `Windsurf`
 
-identifying the problem,
-mapping the workflow,
-building the product,
-and refining it through execution feedback.
-🚀 Featured Projects
-📄 CV Customizer Workflow
+---
 
-An AI-assisted resume customization system that tailors resumes according to job descriptions while maintaining ATS-friendly formatting.
+## 🧰 Skills
 
-Product Thinking
-Reduce repetitive manual effort during job applications
-Improve relevance between resumes and role requirements
-Maintain user approval before final output generation
-Workflow Includes
-JD Parsing
-Keyword Extraction
-Resume Analysis
-AI Resume Tailoring
-ATS Optimization Suggestions
-🤖 Job Hunt Multi-Agent System
+| Category | Skills |
+|---|---|
+| **Product** | Discovery • JTBD • PRDs • GTM • Roadmapping |
+| **AI & Automation** | Multi-Agent Systems • RAG • n8n • Zapier |
+| **Data** | SQL • Google Analytics • Meta Ads |
+| **Design** | Figma • Wireframing • Journey Mapping |
 
-A multi-agent workflow automating different stages of the job application process.
+---
 
-Problem Being Solved
+## 📈 Experience
 
-Job hunting is fragmented, repetitive, and mentally exhausting.
+| Company | Role |
+|---|---|
+| Quantum Leap | Business & Product Coach |
+| GrowthSchool | Revenue Growth Specialist |
+| Credflow | Business Development Manager |
+| Apnaaashiyana | Founder & Product Lead |
 
-Workflow Includes
-Job Discovery
-Resume Optimization
-Company Research
-Outreach Tracking
-Application Monitoring
-Product Insight
+---
 
-The goal was not full automation.
-The goal was reducing operational friction and cognitive overload.
+## 📫 Connect
 
-🧠 Mutual Fund FAQ Assistant
-
-A RAG-based assistant designed for reliable and controlled financial responses.
-
-Product Thinking
-
-In financial systems, trustworthy refusal is more valuable than hallucinated confidence.
-
-Focus Areas
-Retrieval Accuracy
-Hallucination Reduction
-Constraint-Based AI Design
-Controlled Response Generation
-📈 Review Pulse
-
-An AI-powered customer review analysis workflow that converts unstructured feedback into actionable product insights.
-
-Problem Being Solved
-
-Teams struggle to consistently analyze large-scale customer feedback manually.
-
-Workflow Includes
-Review Clustering
-Sentiment Analysis
-Pattern Detection
-Product Insight Summarization
-⚙️ Skills & Capabilities
-Product Management
-Product Discovery
-User Research
-Workflow Mapping
-PRD Writing
-Product Strategy
-Roadmapping
-Funnel Analysis
-KPI Thinking
-GTM Strategy
-AI & Workflow Systems
-Prompt Engineering
-Multi-Agent Systems
-RAG Architectures
-Workflow Automation
-AI Orchestration
-Human-in-the-Loop Design
-Tools
-Cursor
-Claude API
-n8n
-Zapier
-Figma
-GitHub
-SQL
-Postman
-Google Analytics
-🌐 Connect With Me
-💼 LinkedIn: Akash Mishra LinkedIn
-🌍 Portfolio: akashpm.super.site
-✉️ Email: akash.mishr44@gmail.com
-📌 What I’m Looking For
-
-I’m currently looking for:
-
-APM / Product Management roles
-AI-first startups
-Product-focused teams solving real operational problems
-Opportunities involving AI workflows, automation, and product systems
-
-I’m interested in building AI products that simplify complex workflows, reduce operational friction, and turn messy business problems into scalable systems.
+- LinkedIn: <PRIVATE_URL>
+- Portfolio: akashpm.super.site
+- Email: akashmishr44@gmail.com
